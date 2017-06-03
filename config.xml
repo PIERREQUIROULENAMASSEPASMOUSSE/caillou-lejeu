@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    version     = "1.0.0" >
+    
+  <name>Caillou chez le coiffeur</name>
+
+  <description>
+      Pauvre caillou est atteint de la leucémie...
+  </description>
+
+  <author href="http://emmanuelemmanuelemmanuel.ml/" email="lfberthiaume@me.com">
+      Hardeep Shoker
+  </author>
+<icon src="https://raw.githubusercontent.com/PIERREQUIROULENAMASSEPASMOUSSE/caillou-lejeu/master/icon.png" />
+</widget>
